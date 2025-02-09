@@ -3,6 +3,8 @@
 This is a **Machine Learning-based web application** that recommends the **best fertilizer** based on soil and environmental conditions.  
 It uses a **trained Random Forest model** and a **Streamlit UI** for user-friendly predictions.  
 
+Check it out : https://fertilizer-recommender-web.streamlit.app/
+
 ## 📌 Features  
 ✅ **Predicts the best fertilizer** based on user input  
 ✅ **Uses a trained Random Forest model** for accurate recommendations  
